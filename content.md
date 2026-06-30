@@ -34,3 +34,24 @@ x^2 + y^2 = z^2 \\
 a^2 + b^2 = c^2
 \end{align}
 $$
+
+This was created with the following source code:
+
+```markdown
+$$
+\begin{align}
+x^2 + y^2 = z^2 \\
+a^2 + b^2 = c^2
+\end{align}
+$$
+```
+
+### Aligning Equations
+
+To align entities within the align environment, you can use the ampersand (&) symbol. For example, the following is an aligned equation block:
+
+$$
+0 &= 3&x^2 + &x + &1 \\
+0 &= &x^2 - 3&x \\
+0 &= 4&x^2 & + &6
+$$
