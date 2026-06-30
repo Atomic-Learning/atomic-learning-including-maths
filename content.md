@@ -51,7 +51,9 @@ $$
 To align entities within the align environment, you can use the ampersand (&) symbol. For example, the following is an aligned equation block:
 
 $$
+\begin{align}
 0 &= 3&x^2 + &x + &1 \\
 0 &= &x^2 - 3&x \\
 0 &= 4&x^2 & + &6
+\end{align}
 $$
