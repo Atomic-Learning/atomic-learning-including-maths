@@ -52,8 +52,8 @@ To align entities within the align environment, you can use the ampersand (&) sy
 
 $$
 \begin{align}
-0 &= 3&x^2 + &x + &1 \\
-0 &= &x^2 - 3&x \\
-0 &= 4&x^2 & + &6
+0 &= &3x^2 &+ x &+ 1 \\
+0 &= &x^2 &- 3x \\
+0 &= &4x^2 & &+ 6
 \end{align}
 $$
