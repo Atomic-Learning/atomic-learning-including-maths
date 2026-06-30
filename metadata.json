@@ -1,22 +1,18 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "Atomic Learning: Including Maths",
+    "slug": "atomic-learning-including-maths",
+    "description": "A description of how to include mathematical content in the Atomic Learning platform including inline code, equations and blocks of equations.",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "atomic-learning",
+        "mathmode"
     ],
-    "duration": 0,
+    "duration": 5,
     "prerequisites": [
-        "",
-        ""
+        "atomic-learning-content-file"
     ],
     "related": [
-        "",
-        ""
     ]
 }
