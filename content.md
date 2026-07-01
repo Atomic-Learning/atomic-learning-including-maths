@@ -31,50 +31,47 @@ All equations are automatically numbered, and the number is displayed to the rig
 Equation blocks are used to display multiple equations together. This is achieved by using a pair of double dollar signs and separating each equation with a double backslash. For example, the following is an equation block:
 
 $$
-\begin{align}
 x^2 + y^2 = z^2 \\
 a^2 + b^2 = c^2
-\end{align}
 $$
 
 This was created with the following source code:
 
 ```markdown
 $$
-\begin{align}
 x^2 + y^2 = z^2 \\
 a^2 + b^2 = c^2
-\end{align}
 $$
 ```
 
 ## Aligning Equations
 
-To align entities within the align environment, you can use the ampersand (&) symbol. For example, the following is an aligned equation block:
+To align entities within an equation block, you can use the ampersand (&) symbol. For example, the following is an aligned equation block:
 
 $$
-\begin{align}
 0 &= &3x^2 &+ x &+ 1 \\
 0 &= &x^2 &- 3x \\
 0 &= &4x^2 & &+ 6
-\end{align}
 $$
 
 This was created using the following source code:
 
 ```markdown
 $$
-\begin{align}
 0 &= &3x^2 &+ x &+ 1 \\
 0 &= &x^2 &- 3x \\
 0 &= &4x^2 & &+ 6
-\end{align}
 $$
 ``` 
 
 The character following the first ampersand in each equation is aligned with the character following the first ampersand in the other equations. The same applies to the second ampersand, and so on. It is not required that there is the same number of ampersands in each equation.
 
-In practice, it is often good practice to align the equals signs in a set of equations, as this makes it easy to compare the left and right hand sides of each equation in a block.
+In practice, it is often good practice to align the equals signs in a set of equations, as this makes it easy to compare the left and right hand sides of each equation in a block, as in the example below:
+
+$$
+y(x=0) &= 1 \\
+\frac{\textrm{d}y}{\textrm{d}x} &= 2x \\
+$$
 
 # Referencing Equations in Text
 
