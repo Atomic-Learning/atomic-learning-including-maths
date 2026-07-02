@@ -26,7 +26,7 @@ $$
 
 All equations are automatically numbered, and the number is displayed to the right of the equation.
 
-## Equation Blocks
+# Equation Blocks
 
 Equation blocks are used to display multiple equations together. This is achieved by using a pair of double dollar signs and separating each equation with a double backslash. For example, the following is an equation block:
 
