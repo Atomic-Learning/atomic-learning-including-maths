@@ -11,7 +11,8 @@
     ],
     "duration": 5,
     "prerequisites": [
-        "atomic-learning-content-file"
+        "atomic-learning-content-file",
+        "math-mode-introduction"
     ],
     "related": [
     ]
