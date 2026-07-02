@@ -9,7 +9,7 @@
         "atomic-learning",
         "math-mode"
     ],
-    "duration": 5,
+    "duration": 6,
     "prerequisites": [
         "atomic-learning-content-file",
         "math-mode-introduction"
