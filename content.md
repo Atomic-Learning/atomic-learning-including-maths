@@ -1,4 +1,4 @@
-It is possible to include maths in Atomic Learning pages by using syntax which supports mathmode content.
+It is possible to include maths in Atomic Learning pages by using syntax which supports Math Mode content.
 
 # Inline Maths
 
