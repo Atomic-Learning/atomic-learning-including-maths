@@ -14,5 +14,9 @@
         "atomic-learning-content-file"
     ],
     "related": [
+        "math-mode-basics",
+        "math-mode-superscript",
+        "math-mode-fractions",
+        "math-mode-text-mode"
     ]
 }
