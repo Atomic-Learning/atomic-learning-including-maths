@@ -19,5 +19,6 @@
         "math-mode-superscript",
         "math-mode-fractions",
         "math-mode-text-mode"
-    ]
+    ],
+    "accessibility_candidate":true
 }
