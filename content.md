@@ -16,7 +16,7 @@ $$
 x^2 + y^2 = z^2
 $$
 
-It was created wit the following source code:
+It was created with the following source code:
 
 ```markdown
 $$
